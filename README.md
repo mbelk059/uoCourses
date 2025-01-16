@@ -23,6 +23,7 @@ uoCourses is a course recommendation system designed to help University of Ottaw
 * **Frontend:** React
 
 # Future Steps
+* Deploy for everyone to use COMING SOON as soon as i figure out how to do that :)
 * Introduce filtering and sorting options for search results
 * Improve the recommendation system for better results
   
