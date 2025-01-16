@@ -13,7 +13,7 @@ uoCourses is a course recommendation system designed to help University of Ottaw
   
 # How It Works
 * **Input Query:** Users describe their interests or goals (e.g., "I want to study robotics").
-* **Course Matching:** The app searches its database for relevant courses using keyword matching.
+* **Course Matching:** The app searches the json file for relevant courses using keyword matching.
 * **AI Recommendations:** The matched courses are formatted and presented via AI-generated, conversational responses.
 
 # Technologies Used
