@@ -26,3 +26,5 @@ uoCourses is a course recommendation system designed to help University of Ottaw
 * Introduce filtering and sorting options for search results
 * Improve the recommendation system for better results
   
+# License
+This project uses uoapi by uScheduleMe, which is licensed under the GNU Lesser General Public License v3.0 (LGPL-3.0). See the COPYING and COPYING.LESSER files for the exact terms of the license.
