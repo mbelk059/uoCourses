@@ -1,24 +1,25 @@
 # uoCourses
 
-uoCourses is a course recommendation system designed to help University of Ottawa students find the most relevant courses tailored to their interests, career goals, or academic preferences. By leveraging the uoapi from uScheduleMe and advanced AI capabilities, uoCourses delivers personalized recommendations in a friendly, conversational format.
+uoCourses is a course recommendation system designed to help University of Ottawa students discover the most relevant courses tailored to their interests, career goals, or academic preferences. By leveraging the uoapi from uScheduleMe and AI capabilities via Groq, uoCourses delivers personalized recommendations.
 
 # Screenshots
-![image](https://github.com/user-attachments/assets/4d54831f-ae92-4189-856b-9ade7a99bfaa)
+<img width="1267" height="778" alt="image" src="https://github.com/user-attachments/assets/b4b42c2b-51c0-4a05-8fe9-628c8ce5923d" />
 
 # Features
-* **Course Search:** Search for courses by inputting career goals, academic interests, or specific subjects (e.g., "i wanna get better at data structures," "how do i become a doctor," or "i want the skills to become a ceo").
-* **AI-Powered Responses:** The app uses Google Generative AI to present recommendations in a conversational and friendly tone.
-* **Comprehensive Course Data:** Pulls from the uoapi to access detailed information on course codes, titles, descriptions, and prerequisites. https://github.com/uScheduleMe/uoapi
+* **Course Search:** Find courses by describing your career goals, academic interests, or specific subjects
+(e.g., "I want to improve at data structures," "How do I become a doctor?" or "I want skills to become a CEO").
+* **AI-Powered Responses:** Recommendations are presented using Groq AI.
+* **Comprehensive Course Data:** Pulls detailed information on course codes, titles, descriptions, and prerequisites from the uoapi.
 * **User-Friendly API:** Simple /chat endpoint to interact with the system.
   
 # How It Works
 * **Input Query:** Users describe their interests or goals (e.g., "I want to study robotics").
 * **Course Matching:** The app searches the json file for relevant courses using keyword matching.
-* **AI Recommendations:** The matched courses are formatted and presented via AI-generated, conversational responses.
+* **AI Recommendations:** The matched courses are formatted and returned as Groq AI-generated responses.
 
 # Technologies Used
 * **Backend Framework:** Flask (Python)
-* **AI Integration:** Google Generative AI
+* **AI Integration:** Groq
 * **Data Source:** uoapi by uScheduleMe https://github.com/uScheduleMe/uoapi
 * **Frontend:** React
 
