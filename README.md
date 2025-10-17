@@ -5,7 +5,7 @@ uoCourses is a course recommendation system designed to help University of Ottaw
 Try it out here! https://uocourses.onrender.com/
 
 # Screenshots
-<img width="1151" height="859" alt="image" src="https://github.com/user-attachments/assets/5dd7c5b1-5ec9-4096-af87-53fbb22c8a82" />
+<img width="1896" height="970" alt="image" src="https://github.com/user-attachments/assets/8f37b202-9351-4de1-8cf8-142301d6edfc" />
 
 # Features
 * **Course Search:** Find courses by describing your career goals, academic interests, or specific subjects
