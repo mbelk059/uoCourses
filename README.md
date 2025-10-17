@@ -27,7 +27,6 @@ Try it out here! https://uocourses.onrender.com/
 * **Frontend:** React
 
 # Future Steps
-* Deploy for everyone to use COMING SOON as soon as i figure out how to do that :)
 * Introduce filtering and sorting options for search results
 * Improve the recommendation system for better results
   
