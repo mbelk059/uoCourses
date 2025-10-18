@@ -1,6 +1,6 @@
 # uoCourses
 
-uoCourses is a course recommendation system designed to help University of Ottawa students discover the most relevant courses tailored to their interests, career goals, or academic preferences. By leveraging the uoapi from uScheduleMe and AI capabilities via Groq, uoCourses delivers personalized recommendations.
+uoCourses is a course recommendation system designed to help University of Ottawa students discover the most relevant courses tailored to their interests, career goals, or academic preferences.
 
 Try it out here! https://uocourses.onrender.com/
 
