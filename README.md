@@ -10,7 +10,7 @@ Try it out here! https://uocourses.onrender.com/
 # ✨ Features
 * **Course Search:** Find courses by describing your career goals, academic interests, or specific subjects
 (e.g., "I want to improve at data structures," "How do I become a doctor?" or "I want skills to become a CEO").
-* **AI-Powered Responses:** Recommendations are presented using Groq AI.
+* **AI-Powered Responses:** Recommendations are presented using Gemini AI.
 * **Comprehensive Course Data:** Pulls detailed information on course codes, titles, descriptions, and prerequisites from the uoapi.
 * **User-Friendly API:** Simple /chat endpoint to interact with the system.
   
